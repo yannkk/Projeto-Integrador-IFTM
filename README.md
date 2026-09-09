@@ -1,2 +1,2 @@
-# projetointegrador
-Projeto integrador do if
+# Projeto Integrador do IFTM
+
